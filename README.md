@@ -30,10 +30,6 @@ Sempre me interessei por tecnologia e inovação. Meus principais valores são a
 
 ---
 
-## 🚀 Projetos
-
-
----
 
 ## 🌐 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/nathalye-belinschi-980a8a19b/)
