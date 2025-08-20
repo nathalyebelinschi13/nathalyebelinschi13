@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 💻 Foco em **Desenvolvimento Full Stack e Mobile**  
-🔹 Também estou explorando **Infraestrutura (DevOps) ** e **Cybersecurity**
+🔹 Também estou explorando **Infraestrutura (DevOps)** e **Cybersecurity**
 
 Sempre me interessei por tecnologia e inovação. Meus principais valores são aprendizado contínuo, colaboração, inclusão e acessibilidade digital. Busco aprimorar e unir **Desenvolvimento, Infraestrutura e Segurança** em projetos práticos, criando soluções completas e seguras, pois acredito que a tecnologia deve ser uma ferramenta de transformação positiva e acessível a todos.
 
