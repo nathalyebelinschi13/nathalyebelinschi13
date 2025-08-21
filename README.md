@@ -41,7 +41,8 @@ Sempre me interessei por tecnologia e inovação. Meus principais valores são a
 ## 📂 Projetos
 - Em breve adicionarei meus primeiros projetos aqui.  
 - Todos os projetos serão públicos no GitHub para mostrar meu aprendizado e progresso.
-- 
+
+  
 ## 🌐 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/nathalye-belinschi-980a8a19b/)
 
