@@ -31,6 +31,17 @@ Sempre me interessei por tecnologia e inovação. Meus principais valores são a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## ⭐ Objetivos
+- Construir projetos simples e práticos para aplicar o que aprendo.  
+- Evoluir de iniciante para desenvolvedora Fullstack e Mobile.  
+- Aprender fundamentos de Infraestrutura e Segurança para DevOps.  
+
+---
+
+## 📂 Projetos
+- Em breve adicionarei meus primeiros projetos aqui.  
+- Todos os projetos serão públicos no GitHub para mostrar meu aprendizado e progresso.
+- 
 ## 🌐 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/nathalye-belinschi-980a8a19b/)
 
