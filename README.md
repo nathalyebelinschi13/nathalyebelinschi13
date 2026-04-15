@@ -1,49 +1,58 @@
 # Olá, eu sou a Nathalye 🌟
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-💻 Foco em **Desenvolvimento Full Stack e Mobile**  
-🔹 Também estou explorando **Infraestrutura (DevOps)** e **Cybersecurity**
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💼 Experiência com Suporte Técnico N1 e N2  
+💻 Foco em Suporte Técnico, Sistemas e Experiência do Usuário  
 
-Sempre me interessei por tecnologia e inovação. Meus principais valores são aprendizado contínuo, colaboração, inclusão e acessibilidade digital. Busco aprimorar e unir **Desenvolvimento, Infraestrutura e Segurança** em projetos práticos, criando soluções completas e seguras, pois acredito que a tecnologia deve ser uma ferramenta de transformação positiva e acessível a todos.
+Tenho experiência na análise e resolução de incidentes em sistemas SaaS, com atendimento via chat, e-mail e telefone, além de gestão de tickets. Possuo facilidade em identificar problemas, analisar cenários e orientar usuários de forma clara e eficiente.
 
+Busco evoluir na área de TI, unindo conhecimento técnico com uma boa experiência do usuário, sempre com foco em melhoria contínua, inclusão e acessibilidade digital.
 
 ---
 
-## 💻 Aprendendo:
+## 🛠️ Tecnologias e Ferramentas
 
-### Front-end / Full Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Infraestrutura & Segurança
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## ⭐ Objetivos
-- Construir projetos simples e práticos para aplicar o que aprendo.  
-- Evoluir de iniciante para desenvolvedora Fullstack e Mobile.  
-- Aprender fundamentos de Infraestrutura e Segurança para DevOps.  
+---
+
+## 💡 Conhecimentos
+
+- Suporte Técnico (N1 e N2)  
+- Análise e resolução de incidentes  
+- Sistemas SaaS  
+- Atendimento ao cliente (chat, e-mail e telefone)  
+- Identificação e reporte de bugs  
 
 ---
 
 ## 📂 Projetos
-- Em breve adicionarei meus primeiros projetos aqui.  
-- Todos os projetos serão públicos no GitHub para mostrar meu aprendizado e progresso.
 
-  
+### 🔧 Troubleshooting de Incidentes em Sistemas
+Documentação prática com problemas comuns em sistemas e suas soluções.
+
+### 💬 Simulação de Atendimento de Suporte Técnico
+Cenários reais de atendimento ao cliente com resolução de problemas técnicos.
+
+### 📘 Base de Conhecimento (FAQ Técnico)
+Guia com dúvidas frequentes e soluções para usuários de sistemas.
+
+---
+
+## 📌 Diferenciais
+
+- Facilidade em resolução de problemas  
+- Boa comunicação com usuários  
+- Foco em experiência do usuário  
+- Interesse em acessibilidade e inclusão digital  
+
+---
+
 ## 🌐 Conecte-se comigo
-- [LinkedIn](https://www.linkedin.com/in/nathalye-belinschi-980a8a19b/)
+
+- [LinkedIn](www.linkedin.com/in/nathalye-belinschi)
 
 
