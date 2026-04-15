@@ -40,6 +40,9 @@ Cenários reais de atendimento ao cliente com resolução de problemas técnicos
 ### 📘 Base de Conhecimento (FAQ Técnico)
 Guia com dúvidas frequentes e soluções para usuários de sistemas.
 
+### 🐞 Relatórios de Bugs (documentação técnica)  
+Registro estruturado de bugs com descrição, análise, passos de reprodução e ações tomadas, simulando práticas utilizadas em ambientes corporativos.
+
 ---
 
 ## 📌 Diferenciais
