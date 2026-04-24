@@ -69,7 +69,7 @@ Documentação técnica com análise e registro de falhas.
 
 ### 📘 FAQ de Suporte Técnico
 Base de conhecimento com dúvidas frequentes de usuários.  
-🔗 (adicione o link aqui quando subir)
+🔗 https://github.com/nathalyebelinschi13/faq-suporte-ti
 
 ---
 
