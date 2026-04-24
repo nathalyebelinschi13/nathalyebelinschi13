@@ -8,7 +8,7 @@ Tenho experiência na análise e resolução de incidentes em sistemas SaaS, com
 
 Possuo facilidade em identificar problemas, analisar cenários e orientar usuários de forma clara e eficiente, sempre buscando melhorar a experiência do usuário.
 
-Atualmente, estou evoluindo na área de desenvolvimento, com foco em Java e boas práticas de programação.
+Atualmente, estou evoluindo na área de desenvolvimento, unindo conhecimento técnico com uma boa experiência do usuário, sempre com foco em melhoria contínua, inclusão e acessibilidade digital.
 
 ---
 
