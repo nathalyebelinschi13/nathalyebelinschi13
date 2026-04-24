@@ -1,17 +1,20 @@
-# Olá, eu sou a Nathalye 🌟
+# Olá, eu sou a Nathalye 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
 💼 Experiência com Suporte Técnico N1 e N2  
-💻 Foco em Suporte Técnico, Sistemas e Experiência do Usuário  
+💻 Foco em Backend Java, Sistemas e Experiência do Usuário  
 
-Tenho experiência na análise e resolução de incidentes em sistemas SaaS, com atendimento via chat, e-mail e telefone, além de gestão de tickets. Possuo facilidade em identificar problemas, analisar cenários e orientar usuários de forma clara e eficiente.
+Tenho experiência na análise e resolução de incidentes em sistemas SaaS, com atendimento via chat, e-mail e telefone, além de gestão de tickets.
 
-Busco evoluir na área de TI, unindo conhecimento técnico com uma boa experiência do usuário, sempre com foco em melhoria contínua, inclusão e acessibilidade digital.
+Possuo facilidade em identificar problemas, analisar cenários e orientar usuários de forma clara e eficiente, sempre buscando melhorar a experiência do usuário.
+
+Atualmente, estou evoluindo na área de desenvolvimento, com foco em Java e boas práticas de programação.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -26,14 +29,19 @@ Busco evoluir na área de TI, unindo conhecimento técnico com uma boa experiên
 - Sistemas SaaS  
 - Atendimento ao cliente (chat, e-mail e telefone)  
 - Identificação e reporte de bugs  
+- Programação em Java  
+- Programação Orientada a Objetos (OOP)  
+- Design Patterns (Singleton, Factory, Strategy)  
 
 ---
 
 ## 📂 Projetos
 
-💻 Sistema de Service Desk (Java | Design Patterns)
-Desenvolvimento de aplicação para gerenciamento de chamados de suporte técnico, com classificação por prioridade e processamento em fila. Aplicação de padrões de projeto como Singleton, Factory e Strategy, seguindo boas práticas de orientação a objetos e organização em camadas.
-🔗 GitHub: https://github.com/nathalyebelinschi13/service-desk-sla-java
+### 🔧 Sistema de Service Desk (Java)
+Sistema de gerenciamento de chamados com aplicação de Design Patterns (Singleton, Factory e Strategy), simulando fluxo de atendimento com priorização de tickets.  
+🔗 https://github.com/nathalyebelinschi13/service-desk-sla-java  
+
+---
 
 ### 🔧 Troubleshooting de Incidentes em Sistemas
 Documentação prática com problemas comuns em sistemas e suas soluções.
@@ -45,7 +53,7 @@ Cenários reais de atendimento ao cliente com resolução de problemas técnicos
 Documentação com dúvidas frequentes e soluções para usuários de sistemas.
 
 ### 🐞 Relatórios de Bugs (documentação técnica)  
-Registro estruturado de bugs com descrição, análise, passos de reprodução e ações tomadas, simulando práticas utilizadas em ambientes corporativos.
+Registro estruturado de bugs com descrição, análise, passos de reprodução e ações tomadas.
 
 ---
 
@@ -60,6 +68,4 @@ Registro estruturado de bugs com descrição, análise, passos de reprodução e
 
 ## 🌐 Conecte-se comigo
 
-- [LinkedIn](www.linkedin.com/in/nathalye-belinschi)
-
-
+- [LinkedIn](https://www.linkedin.com/in/nathalye-belinschi)
