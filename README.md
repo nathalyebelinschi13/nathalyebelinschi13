@@ -31,6 +31,10 @@ Busco evoluir na área de TI, unindo conhecimento técnico com uma boa experiên
 
 ## 📂 Projetos
 
+💻 Sistema de Service Desk (Java | Design Patterns)
+Desenvolvimento de aplicação para gerenciamento de chamados de suporte técnico, com classificação por prioridade e processamento em fila. Aplicação de padrões de projeto como Singleton, Factory e Strategy, seguindo boas práticas de orientação a objetos e organização em camadas.
+🔗 GitHub: https://github.com/nathalyebelinschi13/service-desk-sla-java
+
 ### 🔧 Troubleshooting de Incidentes em Sistemas
 Documentação prática com problemas comuns em sistemas e suas soluções.
 
