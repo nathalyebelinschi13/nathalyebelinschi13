@@ -43,7 +43,7 @@ Sistema de gerenciamento de chamados com aplicação de Design Patterns (Singlet
 
 ---
 
-### 🌐 Sistema Help Desk (Web)
+### 🌐 Sistema Help Desk simples (Web)
 Sistema simples com interface web para simulação de suporte técnico.  
 🔗 https://nathalyebelinschi13.github.io/helpdesk-nana/  
 
