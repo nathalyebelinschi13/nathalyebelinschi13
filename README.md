@@ -38,22 +38,38 @@ Atualmente, estou evoluindo na área de desenvolvimento, unindo conhecimento té
 ## 📂 Projetos
 
 ### 🔧 Sistema de Service Desk (Java)
-Sistema de gerenciamento de chamados com aplicação de Design Patterns (Singleton, Factory e Strategy), simulando fluxo de atendimento com priorização de tickets.  
+Sistema de gerenciamento de chamados com aplicação de Design Patterns (Singleton, Factory e Strategy).  
 🔗 https://github.com/nathalyebelinschi13/service-desk-sla-java  
 
 ---
 
-### 🔧 Troubleshooting de Incidentes em Sistemas
-Documentação prática com problemas comuns em sistemas e suas soluções.
+### 🌐 Sistema Help Desk (Web)
+Sistema simples com interface web para simulação de suporte técnico.  
+🔗 https://nathalyebelinschi13.github.io/helpdesk-nana/  
 
-### 💬 Simulação de Atendimento de Suporte Técnico
-Cenários reais de atendimento ao cliente com resolução de problemas técnicos.
+---
 
-### 📘 Base de Conhecimento (FAQ Técnico)
-Documentação com dúvidas frequentes e soluções para usuários de sistemas.
+### 🔧 Troubleshooting de Incidentes
+Documentação com soluções para problemas comuns em sistemas.  
+🔗 https://github.com/nathalyebelinschi13/troubleshooting-suporte-ti  
 
-### 🐞 Relatórios de Bugs (documentação técnica)  
-Registro estruturado de bugs com descrição, análise, passos de reprodução e ações tomadas.
+---
+
+### 💬 Simulação de Suporte Técnico
+Cenários reais de atendimento com resolução de problemas.  
+🔗 https://github.com/nathalyebelinschi13/simulacao-suporte-tecnico  
+
+---
+
+### 🐞 Relatórios de Bugs
+Documentação técnica com análise e registro de falhas.  
+🔗 https://github.com/nathalyebelinschi13/bug-report-suporte-ti  
+
+---
+
+### 📘 FAQ de Suporte Técnico
+Base de conhecimento com dúvidas frequentes de usuários.  
+🔗 (adicione o link aqui quando subir)
 
 ---
 
