@@ -69,13 +69,30 @@ Script para organização de tickets, classificação por prioridade e geração
 
 ---
 
+
 ## 📚 Outros projetos
 
-- 🔧 Troubleshooting de Incidentes  
-- 💬 Simulação de Suporte Técnico  
-- 🐞 Relatórios de Bugs  
-- 📘 FAQ de Suporte Técnico  
+🔧 **Troubleshooting de Incidentes**  
+Documentação de soluções para problemas comuns em sistemas.  
+🔗 https://github.com/nathalyebelinschi13/troubleshooting-suporte-ti  
 
+---
+
+💬 **Simulação de Suporte Técnico**  
+Cenários reais de atendimento e resolução de problemas.  
+🔗 https://github.com/nathalyebelinschi13/simulacao-suporte-tecnico  
+
+---
+
+🐞 **Relatórios de Bugs**  
+Registro técnico e análise de falhas em sistemas.  
+🔗 https://github.com/nathalyebelinschi13/bug-report-suporte-ti  
+
+---
+
+📘 **FAQ de Suporte Técnico**  
+Base de conhecimento com dúvidas frequentes de usuários.  
+🔗 https://github.com/nathalyebelinschi13/faq-suporte-ti  
 ---
 
 ## 🌐 Conecte-se comigo
