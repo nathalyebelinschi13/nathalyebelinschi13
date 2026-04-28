@@ -16,12 +16,6 @@
 
 ---
 
-
-<p align="center">
-  <img src="banner.png" width="100%" />
-</p>
-
-
 ## 🧠 Sobre mim
 
 Possuo experiência com análise e resolução de incidentes em sistemas SaaS, realizando atendimento via chat, e-mail e telefone, além de gestão de tickets.
@@ -102,3 +96,8 @@ Base de conhecimento com dúvidas frequentes de usuários.
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NathalyeBelinschi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalye-belinschi)
+
+
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
