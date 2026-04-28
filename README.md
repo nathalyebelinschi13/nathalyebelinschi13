@@ -98,5 +98,5 @@ Base de conhecimento com dúvidas frequentes de usuários.
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathalye-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalye-belinschi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathalye-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-Belinschi)](https://www.linkedin.com/in/nathalye-belinschi)
 
