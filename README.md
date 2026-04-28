@@ -1,6 +1,5 @@
-
 <p align="center">
-  💻 IT Support • Help Desk • Backend Java
+  <img src="banner.png" width="100%" />
 </p>
 
 # Olá, eu sou a Nathalye 👋
