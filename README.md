@@ -2,6 +2,16 @@
   <img src="banner.png" width="100%" />
 </p>
 
+def motivacao():
+    foco = True
+    while foco:
+        aprender("Python")
+        criar_algo_novo()
+        # Bugs são parte do caminho!
+        if bug:
+            resolver_bug()
+    return "Sucesso"
+
 # Olá, eu sou a Nathalye 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
