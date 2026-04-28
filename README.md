@@ -1,9 +1,4 @@
 
-<!-- BANNER -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=Nathalye%20Belinschi&fontSize=40&fontColor=ffffff)
-
----
-
 # Olá, eu sou a Nathalye 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
