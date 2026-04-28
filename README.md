@@ -18,9 +18,10 @@
 
 ---
 
+
 ## 🧠 Sobre mim
 
-Atuo com análise e resolução de incidentes em sistemas SaaS, realizando atendimento via chat, e-mail e telefone, além de gestão de tickets.
+Possuo experiência com análise e resolução de incidentes em sistemas SaaS, realizando atendimento via chat, e-mail e telefone, além de gestão de tickets.
 
 Atualmente, estou em transição para desenvolvimento de sistemas, unindo minha experiência em suporte técnico com programação e automação.
 
