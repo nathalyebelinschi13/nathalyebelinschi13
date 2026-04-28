@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="100%" />
-</p>
-
 # Olá, eu sou a Nathalye 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
@@ -19,6 +15,11 @@
 - Interesse em automação e melhoria de processos  
 
 ---
+
+
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
 
 ## 🧠 Sobre mim
