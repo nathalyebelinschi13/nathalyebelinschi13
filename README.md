@@ -98,6 +98,4 @@ Base de conhecimento com dúvidas frequentes de usuários.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NathalyeBelinschi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalye-belinschi)
 
 
-<p align="center">
-  <img src="banner.png" width="100%" />
-</p>
+
